@@ -1,4 +1,4 @@
-# Java-Week3-ToDo-List.
+# Java-Week3-ToDo-List App
 
 Author: Brian Marete.
 
